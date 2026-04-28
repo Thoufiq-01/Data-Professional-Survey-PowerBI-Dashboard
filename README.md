@@ -1,18 +1,17 @@
-# Customer Analytics & Business Insights
+# Data Professional Survey Power BI Dashboard
 
 ## 📌 Overview
-Analyzed customer data to identify behavior patterns and business insights.
+Built an interactive dashboard to analyze survey data of data professionals.
 
 ## 🛠 Tools Used
-- SQL
-- Python
-- Excel
 - Power BI
+- DAX
+- Power Query
 
 ## 📊 Key Insights
-- Identified customer churn patterns
-- Segmented users based on behavior
-- Improved decision-making insights
+- Analyzed salary distribution across roles
+- Compared job satisfaction levels
+- Identified trends in work-life balance
 
 ## 🚀 Outcome
-Helps businesses take data-driven decisions and improve customer retention.
+Provides insights into industry trends for better career and business decisions.
