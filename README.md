@@ -1,23 +1,18 @@
-# Data Professional Survey Power BI Dashboard
+# Customer Analytics & Business Insights
 
-## Overview
-This project is an interactive **Power BI dashboard** built to analyze survey data of data professionals.  
-It provides insights into salary trends, job roles, demographics, and job satisfaction.
+## 📌 Overview
+Analyzed customer data to identify behavior patterns and business insights.
 
-## Tools Used
-- Power BI  
-- Power Query  
-- DAX  
+## 🛠 Tools Used
+- SQL
+- Python
+- Excel
+- Power BI
 
-## Key Features
-- Data cleaning and transformation using Power Query  
-- KPI calculations using DAX (Average Salary, Age, Satisfaction)  
-- Interactive visuals with filters and slicers  
+## 📊 Key Insights
+- Identified customer churn patterns
+- Segmented users based on behavior
+- Improved decision-making insights
 
-## Dashboard Insights
-- Salary comparison across job roles  
-- Demographic distribution of survey participants  
-- Work-life balance and salary satisfaction analysis  
-
-## Author
-**Mohammad Thoufiq**
+## 🚀 Outcome
+Helps businesses take data-driven decisions and improve customer retention.
